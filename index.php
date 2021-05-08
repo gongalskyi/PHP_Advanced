@@ -1,4 +1,7 @@
 <?php
-	echo '<h1>I change my file</h1>';
+	function text(){
+	echo '<h1>I understand how it works!!! ;)</h1>';
+	}
+	echo text();
 	echo phpinfo();
 ?>
